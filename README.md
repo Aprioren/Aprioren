@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 style="margin 0 auto ">Greetings i`m Artem Sarancha</h1>
+<p> 🌱 I’m currently learning FrontEnd. I did some work to improve my skills, and here you can watch it to yourself </p>
+

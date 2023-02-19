@@ -1,21 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Aprioren/Aprioren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 style="margin 0 auto ">Greetings i`m Artem Sarancha</h1>
-<p> 🌱 I’m currently making FrontEnd. I did some work to improve my skills, and here you can watch it to yourself </p>
-
-#My socialmedia https://www.linkedin.com/in/artem-sarancha/
+# Greetings i`m Artem Sarancha
+I’m currently making ___FrontEnd___ :computer:.
+ 
+ I did some work to improve my skills, and here you can watch it to yourself. 
+___
+## My socialmedia 
+[:speech_balloon: LinkedIn](https://www.linkedin.com/in/artem-sarancha/)
 

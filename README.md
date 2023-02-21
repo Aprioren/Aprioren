@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-# Greetings i`m Artem Sarancha
+# Greetings I`m Artem Sarancha
 I’m currently making ___FrontEnd___ :computer:.
  
- I did some work to improve my skills, and here you can watch it to yourself. 
+I did some work to improve my skills, and here you can watch it to yourself. 
 ___
 ## Tecnologies that i use
 
@@ -19,7 +19,7 @@ ___
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+___
 ## My socialmedia 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-sarancha/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aprioren)
